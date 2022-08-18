@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3327" data-name="Rectangle 3327" width="48" height="48" transform="translate(-18027 -14698)" fill="#4da42f"/>
+    </clipPath>
+  </defs>
+  <g id="course-list-icon9" transform="translate(18027 14698)" clip-path="url(#clip-path)">
+    <g id="plant" transform="translate(-18023 -14713.579)">
+      <g id="Group_7479" data-name="Group 7479" transform="translate(0 21.579)">
+        <g id="Group_7478" data-name="Group 7478" transform="translate(0 0)">
+          <path id="Path_8149" data-name="Path 8149" d="M16.1,25.481c-3.5-3.5-10.344-3.9-15.189-3.9A.909.909,0,0,0,0,22.488c0,4.845.4,11.691,3.9,15.189a8.467,8.467,0,0,0,5.984,2.136A9.068,9.068,0,0,0,16.1,37.676C18.7,35.07,19.182,28.563,16.1,25.481ZM14.813,36.392c-1.946,1.944-7.347,2.276-9.624,0C2.366,33.568,1.876,27.832,1.824,23.4c4.429.053,10.166.542,12.989,3.365C17.089,29.044,16.757,34.448,14.813,36.392Z" transform="translate(0 -21.579)" fill="#4da42f"/>
+        </g>
+      </g>
+      <g id="Group_7481" data-name="Group 7481" transform="translate(21.807 25.175)">
+        <g id="Group_7480" data-name="Group 7480" transform="translate(0 0)">
+          <path id="Path_8150" data-name="Path 8150" d="M273.188,63.776c-4.845,0-11.691.4-15.189,3.9-3.084,3.082-2.605,9.589,0,12.195a9.071,9.071,0,0,0,6.211,2.136,8.476,8.476,0,0,0,5.986-2.135c3.5-3.5,3.9-10.344,3.9-15.189A.909.909,0,0,0,273.188,63.776Zm-4.282,14.811c-2.276,2.276-7.68,1.944-9.624,0s-2.276-7.347,0-9.624c2.824-2.824,8.56-3.313,12.989-3.365C272.219,70.029,271.73,75.765,268.907,78.587Z" transform="translate(-255.862 -63.776)" fill="#4da42f"/>
+        </g>
+      </g>
+      <g id="Group_7483" data-name="Group 7483" transform="translate(7.272 28.853)">
+        <g id="Group_7482" data-name="Group 7482" transform="translate(0 0)">
+          <path id="Path_8151" data-name="Path 8151" d="M110.623,111.119a.982.982,0,0,0-1.282-.4c-6.973,3.278-10.4,8.995-11.955,14.871-1.925-12.495-7.495-16.3-9.856-17.92a5.711,5.711,0,0,1-.651-.475.909.909,0,0,0-1.285,1.286,7.313,7.313,0,0,0,.911.689c2.662,1.82,9.733,6.658,9.733,25.94a.909.909,0,0,0,1.818,0c0-7.791,2.093-18.062,12.06-22.746,0,0,.147-.071.147-.071A.843.843,0,0,0,110.623,111.119Z" transform="translate(-85.328 -106.928)" fill="#4da42f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
